@@ -10,8 +10,8 @@
   },
   "packageManager": "yarn@3.8.0",
   "overrides": {
-    "react": "$react",
-    "react-dom": "$react-dom"
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
   },
   "dependencies": {
     "@tailwindcss/typography": "^0.5.16",
